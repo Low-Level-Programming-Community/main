@@ -2,6 +2,6 @@ Low Level Programming Community Is A Organization That Makes You Learn Better A 
 
 <p align="center">
  <img width="750" height="566" alt="roadmap" src="https://github.com/user-attachments/assets/215c42a2-2c99-4030-84de-f0706e779bc8" />
-</p><br>
+</p>
 
 <p align="center">The Roadmap</p>
