@@ -6,11 +6,4 @@ Low Level Programming Community Is A Organization That Makes You Learn Better A 
 
 <p align="center">The Roadmap</p> <hr>
 
-<iframe 
-    src="https://discord.com/widget?id=1509692838584258770&theme=dark" 
-    width="350" 
-    height="500" 
-    allowtransparency="true" 
-    frameborder="0" 
-    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-</iframe>
+[Click here to join the server](https://discord.gg/WnK9mqSfGs)
