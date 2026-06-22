@@ -6,10 +6,11 @@ Low Level Programming Community Is A Organization That Makes You Learn Better A 
 
 <p align="center">The Roadmap</p> <hr>
 
-<div align="center">
-  <br>
-  <a href="https://discord.gg/WnK9mqSfGs">
-    <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
-  </a>
-  <br>
-</div>
+<iframe 
+    src="https://discord.com/widget?id=1509692838584258770&theme=dark" 
+    width="350" 
+    height="500" 
+    allowtransparency="true" 
+    frameborder="0" 
+    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe>
